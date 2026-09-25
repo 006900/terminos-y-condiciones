@@ -1,0 +1,33 @@
+Términos y Condiciones de Uso
+Titular: Alan Cristaldo Benítez Contacto: alanbenites999@gmail.com Jurisdicción aplicable: Tribunales Ordinarios de la Provincia de Buenos Aires, República Argentina.
+2.1. Aceptación de los Términos
+Al descargar, instalar o utilizar la aplicación PC Build AR, el usuario (en adelante, "el Usuario") manifiesta haber leído, comprendido y aceptado sin reservas los presentes Términos y Condiciones. Si no está de acuerdo con los mismos, debe abstenerse de utilizar la Aplicación y desinstalarla inmediatamente.
+2.2. Naturaleza de la Aplicación (Carácter Informativo y Orientativo)
+•
+PC Build AR es una herramienta digital de carácter estrictamente informativo y orientativo.
+•
+Las sugerencias de compatibilidad brindadas por la Aplicación ("este producto puede llegar a ser compatible con lo que estás buscando") son estimaciones basadas en especificaciones técnicas generales y no constituyen una garantía absoluta, peritaje técnico ni certificación de funcionamiento conjunto entre piezas de hardware.
+•
+Precios de Referencia: Los precios y valores monetarios mostrados en la Aplicación son puramente referenciales, calculados o estimados en base al valor histórico de lanzamiento de cada producto o datos orientativos de mercado. PC Build AR no es una tienda oficial, no vende hardware directamente ni garantiza precios de venta reales, vigentes o stock en comercios minoristas.
+2.3. Propiedad Intelectual
+•
+Todos los derechos de propiedad intelectual e industrial sobre el diseño de la interfaz, logotipos, estructura de código fuente, marcas y contenidos gráficos de PC Build AR pertenecen de forma exclusiva a Alan Cristaldo Benítez.
+•
+Queda prohibida la reproducción, copia, modificación, distribución o explotación comercial no autorizada de cualquier elemento de la Aplicación.
+2.4. Publicidad, Enlaces de Afiliados y Referidos
+•
+La Aplicación incluye espacios publicitarios (banners y anuncios de pantalla completa / intersticiales) provistos por redes publicitarias de terceros (ej. Google AdMob).
+•
+La Aplicación podrá integrar enlaces de referidos y programas de afiliados con tiendas de informática y comercio electrónico. PC Build AR puede percibir comisiones por compras realizadas a través de dichos enlaces externos, sin que esto implique responsabilidad alguna sobre las transacciones comerciales, garantías, envíos o políticas de devolución de dichas tiendas terceras.
+2.5. Exención de Responsabilidad
+Bajo ninguna circunstancia Alan Cristaldo Benítez será responsable por:
+•
+Daños directos, indirectos, incidentales o consecuentes (incluyendo daños a componentes de hardware, incompatibilidades físicas de piezas, fallas de energía o pérdida de datos) derivados del uso o interpretación de la información brindada por la Aplicación.
+•
+Decisiones de compra o ensamblaje de ordenadores personales tomadas por el Usuario en base a las estimaciones de compatibilidad o precios de referencia de la Aplicación.
+•
+Interrupciones temporales del servicio debido a fallas en la red de internet, mantenimiento de servidores (Supabase/Firebase) o cortes en los servicios de terceros.
+2.6. Modificaciones de la Aplicación y Términos
+El desarrollador se reserva el derecho absoluto de modificar, suspender o discontinuar (temporal o permanentemente) cualquier función de la Aplicación, así como actualizar estos Términos y Condiciones en cualquier momento sin previo aviso.
+2.7. Ley Aplicable y Jurisdicción
+Cualquier controversia derivada de la interpretación, validez o cumplimiento de los presentes Términos y Condiciones será sometida a la jurisdicción de los Tribunales Ordinarios de la Provincia de Buenos Aires, República Argentina, renunciando el Usuario a cualquier otro fuero o jurisdicción.
